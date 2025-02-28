@@ -71,7 +71,7 @@ This course will take you through the key concepts of **Deep Learning** and **We
 
 ---
 
-### 4️⃣ Capstone Project  
+### 3️⃣ Capstone Project  
 🔹 **End-to-end project**: Build a full-stack web application from scratch.  
 🔹 **Project presentation**: Showcase your project to peers and receive feedback.  
 
